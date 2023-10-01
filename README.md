@@ -88,7 +88,7 @@ This is a template project to understand how to implement the graph using SwiftU
    ```
 ### Usage
 
-1. How to create the side view
+1. How to create the Graph view
 
 ```swift
   ChartView(allExpense: finalReportViewModel.allExpense)
