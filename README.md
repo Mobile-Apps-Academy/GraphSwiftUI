@@ -91,8 +91,7 @@ This is a template project to understand how to implement the graph using SwiftU
 1. How to create the side view
 
 ```swift
-ChartView(allExpense: finalReportViewModel.allExpense)
-}
+  ChartView(allExpense: finalReportViewModel.allExpense)
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
